@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="78499e41-aff4-4d35-9bcd-02c39a13fdd9">
+  <name>Test_Config</name>
+  <synonym>
+    <key>ru</key>
+    <value>Test config</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="41a8bf70-be0d-43b6-b552-777b8942462a"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="56e10caa-fdb3-4751-81f4-e445c3831790"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="fd7aedac-33ba-4d39-9329-e101e2e5d6f0"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="e18fc3f1-ce0c-4346-8449-52048a682892"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="2e56b938-1ed2-45e9-abed-fdce4edec8f6"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="0c4afccd-32bf-4d1a-8ce9-68f6aef34402"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="2bb96997-d77e-4004-a4d5-a02b078f1f03"/>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>MobileDevice</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <functionality>BluetoothPrinters</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>WiFiPrinters</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>PushNotifications</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>LocalNotifications</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>PersonalComputerFileExchange</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>Camera</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>AudioPlaybackAndVibration</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>BackgroundAudioPlaybackAndVibration</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>AllFilesAccess</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>NFC</functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>DocumentScanning</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="2e357672-6b7e-48ff-8e41-bd08370d6f9e">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
