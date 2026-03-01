@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Style xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a3bd94d9-e733-416e-8c30-561cb44d598e">
+  <name>СтильФосагро</name>
+  <synonym>
+    <key>ru</key>
+    <value>Стиль Фосагро</value>
+  </synonym>
+</mdclass:Style>

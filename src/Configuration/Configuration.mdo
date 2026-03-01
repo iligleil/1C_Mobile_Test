@@ -16,6 +16,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>MobileDevice</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <vendor>ИЦ ФОСАГРО</vendor>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <functionality>BluetoothPrinters</functionality>
@@ -66,6 +67,7 @@
       <use>true</use>
     </functionality>
   </usedMobileApplicationFunctionalities>
+  <defaultStyle>Style.СтильФосагро</defaultStyle>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
@@ -80,6 +82,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <styles>Style.СтильФосагро</styles>
   <commonCommands>CommonCommand.СохранитьДокументы</commonCommands>
   <documents>Document.СборДанных</documents>
 </mdclass:Configuration>

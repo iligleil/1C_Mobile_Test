@@ -181,6 +181,24 @@
       <segments>Объект.РезультатСчитывания</segments>
     </dataPath>
     <titleLocation>None</titleLocation>
+    <excludedCommands>SelectAll</excludedCommands>
+    <excludedCommands>CopyToClipboard</excludedCommands>
+    <excludedCommands>SearchEverywhere</excludedCommands>
+    <excludedCommands>FindByCurrentValue</excludedCommands>
+    <excludedCommands>ShowMultipleSelection</excludedCommands>
+    <excludedCommands>SortListDesc</excludedCommands>
+    <excludedCommands>MoveUp</excludedCommands>
+    <excludedCommands>Find</excludedCommands>
+    <excludedCommands>Change</excludedCommands>
+    <excludedCommands>SortListAsc</excludedCommands>
+    <excludedCommands>EndEdit</excludedCommands>
+    <excludedCommands>MoveDown</excludedCommands>
+    <excludedCommands>OutputList</excludedCommands>
+    <excludedCommands>ShowRowRearrangement</excludedCommands>
+    <excludedCommands>CancelSearch</excludedCommands>
+    <excludedCommands>SearchHistory</excludedCommands>
+    <excludedCommands>Add</excludedCommands>
+    <excludedCommands>Copy</excludedCommands>
     <items xsi:type="form:FormGroup">
       <name>ГруппаРезультатСчитывания</name>
       <id>35</id>

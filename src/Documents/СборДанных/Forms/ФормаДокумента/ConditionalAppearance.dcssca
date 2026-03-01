@@ -16,7 +16,7 @@
 		<appearance>
 			<dcscor:item xsi:type="SettingsParameterValue">
 				<dcscor:parameter>ЦветФона</dcscor:parameter>
-				<dcscor:value xsi:type="v8ui:Color">#B7FFB8</dcscor:value>
+				<dcscor:value xsi:type="v8ui:Color">style:AuxiliaryNavigationColor</dcscor:value>
 			</dcscor:item>
 		</appearance>
 	</item>

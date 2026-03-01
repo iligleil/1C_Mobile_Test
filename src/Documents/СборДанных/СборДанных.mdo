@@ -31,6 +31,24 @@
   <defaultListForm>Document.СборДанных.Form.ФормаСписка</defaultListForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="963e9166-bb6b-4d63-876b-7d6521b80e1b">
+    <name>ИмяФайлаВыгрузки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Имя файла выгрузки</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>100</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="db37dbec-8b1b-414f-a00f-2b03179a321b">
     <name>ФормаДокумента</name>
     <synonym>

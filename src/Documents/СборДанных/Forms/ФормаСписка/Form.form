@@ -47,6 +47,28 @@
     </dataPath>
     <defaultItem>true</defaultItem>
     <titleLocation>None</titleLocation>
+    <excludedCommands>CancelSearch</excludedCommands>
+    <excludedCommands>FindByCurrentValue</excludedCommands>
+    <excludedCommands>LoadDynamicListSettings</excludedCommands>
+    <excludedCommands>Refresh</excludedCommands>
+    <excludedCommands>ListSettings</excludedCommands>
+    <excludedCommands>SearchHistory</excludedCommands>
+    <excludedCommands>SaveDynamicListSettings</excludedCommands>
+    <excludedCommands>Change</excludedCommands>
+    <excludedCommands>OutputList</excludedCommands>
+    <excludedCommands>Create</excludedCommands>
+    <excludedCommands>UndoPosting</excludedCommands>
+    <excludedCommands>ShowMultipleSelection</excludedCommands>
+    <excludedCommands>SetDeletionMark</excludedCommands>
+    <excludedCommands>DynamicListStandardSettings</excludedCommands>
+    <excludedCommands>SetDateInterval</excludedCommands>
+    <excludedCommands>CopyToClipboard</excludedCommands>
+    <excludedCommands>Find</excludedCommands>
+    <excludedCommands>Copy</excludedCommands>
+    <excludedCommands>Post</excludedCommands>
+    <excludedCommands>GetURL</excludedCommands>
+    <excludedCommands>SearchEverywhere</excludedCommands>
+    <excludedCommands>ChangeHistory</excludedCommands>
     <items xsi:type="form:FormField">
       <name>Номер</name>
       <id>16</id>
@@ -125,6 +147,7 @@
       <name>СписокКоманднаяПанель</name>
       <id>5</id>
       <horizontalAlign>Left</horizontalAlign>
+      <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
       <name>СписокСтрокаПоиска</name>
@@ -276,9 +299,19 @@
     <horizontalStretch>true</horizontalStretch>
     <groupHorizontalAlign>Center</groupHorizontalAlign>
     <placementArea>UserCmds</placementArea>
+    <textColor xsi:type="core:ColorRef">
+      <color>Style.FormBackColor</color>
+    </textColor>
     <backColor xsi:type="core:ColorRef">
-      <color>Style.ImportantColor</color>
+      <color>Style.AccentColor</color>
     </backColor>
+    <borderColor xsi:type="core:ColorRef">
+      <color>Style.AuxiliaryNavigationColor</color>
+    </borderColor>
+    <font xsi:type="core:FontRef">
+      <font>Style.NormalTextFont</font>
+      <bold>true</bold>
+    </font>
     <representationInContextMenu>Auto</representationInContextMenu>
     <shape>Oval</shape>
     <shapeRepresentation>Always</shapeRepresentation>
@@ -290,6 +323,39 @@
     <horizontalAlign>Left</horizontalAlign>
     <autoFill>true</autoFill>
   </autoCommandBar>
+  <excludedCommands>GetURL</excludedCommands>
+  <excludedCommands>Cancel</excludedCommands>
+  <excludedCommands>Create</excludedCommands>
+  <excludedCommands>OutputList</excludedCommands>
+  <excludedCommands>ShowMultipleSelection</excludedCommands>
+  <excludedCommands>ChangeHistory</excludedCommands>
+  <excludedCommands>OpenFromMainServer</excludedCommands>
+  <excludedCommands>Close</excludedCommands>
+  <excludedCommands>Refresh</excludedCommands>
+  <excludedCommands>No</excludedCommands>
+  <excludedCommands>CustomizeForm</excludedCommands>
+  <excludedCommands>Yes</excludedCommands>
+  <excludedCommands>LoadDynamicListSettings</excludedCommands>
+  <excludedCommands>SetDeletionMark</excludedCommands>
+  <excludedCommands>Help</excludedCommands>
+  <excludedCommands>OpenFromStandaloneServer</excludedCommands>
+  <excludedCommands>Find</excludedCommands>
+  <excludedCommands>Abort</excludedCommands>
+  <excludedCommands>ListSettings</excludedCommands>
+  <excludedCommands>UndoPosting</excludedCommands>
+  <excludedCommands>FindByCurrentValue</excludedCommands>
+  <excludedCommands>Copy</excludedCommands>
+  <excludedCommands>CancelSearch</excludedCommands>
+  <excludedCommands>DynamicListStandardSettings</excludedCommands>
+  <excludedCommands>Retry</excludedCommands>
+  <excludedCommands>Change</excludedCommands>
+  <excludedCommands>SetDateInterval</excludedCommands>
+  <excludedCommands>SaveValues</excludedCommands>
+  <excludedCommands>Post</excludedCommands>
+  <excludedCommands>OK</excludedCommands>
+  <excludedCommands>RestoreValues</excludedCommands>
+  <excludedCommands>Ignore</excludedCommands>
+  <excludedCommands>SaveDynamicListSettings</excludedCommands>
   <saveWindowSettings>true</saveWindowSettings>
   <autoTitle>true</autoTitle>
   <autoUrl>true</autoUrl>
