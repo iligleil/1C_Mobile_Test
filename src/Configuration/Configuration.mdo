@@ -80,5 +80,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonCommands>CommonCommand.СохранитьДокументы</commonCommands>
   <documents>Document.СборДанных</documents>
 </mdclass:Configuration>
