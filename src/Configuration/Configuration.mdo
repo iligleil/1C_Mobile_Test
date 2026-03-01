@@ -80,4 +80,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <documents>Document.СборДанных</documents>
 </mdclass:Configuration>
